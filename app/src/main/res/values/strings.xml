@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RockPaperScissor Game</string>
+    <string name="rock_view">rock_view</string>
+    <string name="paper_view">paper_view</string>
+    <string name="scissors_view">scissors_view</string>
+    <string name="restart_the_game">RESTART THE GAME</string>
+</resources>
